@@ -1,0 +1,12 @@
+@font-face {
+    font-family:"Rubic-Black" ;
+    src: url('../font/Rubik-Black.ttf') format("truetype");
+}
+@font-face {
+    font-family:"Rubic-Bold" ;
+    src: url('../font/Rubik-Bold.ttf') format("truetype");
+}
+@font-face {
+    font-family:"Rubic-Medium" ;
+    src: url('../font/Rubik-Medium.ttf') format("truetype");
+}
